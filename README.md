@@ -1,5 +1,4 @@
-# Exploratory-Data-Analysis
-Sabrina Carpenter Discography Database
+# Sabrina Carpenter Discography Database
 This project is a relational database management system (RDBMS) built to track and analyze the discography of Sabrina Carpenter. It was developed for the DS220: Data Management course at Penn State.
 
 ### Database Overview
@@ -26,4 +25,4 @@ Language: SQL (Microsoft SQL Server)
 Dataset Source: Kaggle 
 
 ### Contributors
-Logan Camacho, Ariana Netteville, Nurin Mustapa (me), Sanjana Vuppunahalli
+Nurin Mustapa (me), Logan Camacho, Ariana Netteville, Sanjana Vuppunahalli
