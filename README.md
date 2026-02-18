@@ -10,7 +10,7 @@ The database consists of three interconnected tables:
 
 • MEDIA: Performance metrics like Spotify streams, YouTube views, and USA chart peaks.
 
-### Key Features & Queries
+### Key Queries
 The project includes SQL scripts to answer specific business and fan-related questions, such as:
 
 • Chart Performance: Identifying songs that reached the Top 5 in the USA.
